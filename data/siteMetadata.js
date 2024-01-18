@@ -8,7 +8,7 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://www.travispandos.com',
   siteRepo: '',
-  siteLogo: '/static/images/logo.png',
+  siteLogo: '',
   socialBanner: '/static/images/twitter-card.png',
   // mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'travis.pandos@gmail.com',
